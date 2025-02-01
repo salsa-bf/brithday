@@ -133,6 +133,10 @@ body {
   border-radius: 30px;
 }
 
+a {
+  text-decoration: none;
+}
+
 .tombolAnimasi:before {
   content: "";
   z-index: 1;
