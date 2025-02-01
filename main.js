@@ -5,10 +5,11 @@ function clicks() {
 
   var typed = new Typed(".katakata", {
     strings: [
-      "Cuma mau bilang",
-      "Selamat ulang tahun ya Sayangku",
+      "03 February 2025",
+      "Cuma mau bilang . . .",
+      "Selamat ulang tahun ya Cantik",
       "Km doa sendiri ya biar aku yang amin aja hehe",
-      "I Love You Salsa",
+      "Be happy forever",
       `<a href="https://salsa-bf.github.io/kesayangan/">Selanjutnya ...</a>`,
     ],
     typeSpeed: 70,
